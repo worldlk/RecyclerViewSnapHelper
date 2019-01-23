@@ -1,0 +1,2 @@
+# RecyclerViewSnapHelper
+rvsh
